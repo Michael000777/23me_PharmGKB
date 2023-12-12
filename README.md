@@ -1,4 +1,4 @@
-# Pharmacogenomic Data Exploration For Personalized Drug Reccomendations
+# Pharmacogenomic Data Exploration For Personalized Drug Recommendations
 Detection of variants with their associated drug effects as provided by PharmGKB.
 
 **Datasets**
