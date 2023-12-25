@@ -9,4 +9,4 @@ Variation annotation summary was accessed on the PharmGKB website (https://www.p
 
 **METHODS**
 
-Access Jupyter Notbook in REPO for details. Creation of Drug-Variant association networks and others.
+Access Jupyter Notebook in REPO for details. Creation of Drug-Variant association networks and others.
